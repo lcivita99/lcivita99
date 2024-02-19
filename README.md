@@ -7,6 +7,6 @@ previous experiences with my game development practices, whether
 that be in the realms of animation, illustration, sound design,
 or audio engineering!
 
-https://www.lucacivita.com
+www.lucacivita.com
 
 Reach me at lcivita99@icloud.com !
