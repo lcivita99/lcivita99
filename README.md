@@ -1,9 +1,6 @@
 Hey I'm Luca!
 
-I'm a game designer / developer with interests in:
-- graphics programming
-- ddsf
-- fsd
+I'm a game designer / developer with interests in shaders, procedural animation, physics programming, and systems.
 
 I also have a background in the arts, and I love combining these
 previous experiences with my game development practices, whether
