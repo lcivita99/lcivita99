@@ -1,3 +1,4 @@
+<span style="font-family: 'Courier New'; font-size: 12;">
 Hey I'm Luca!
 
 I'm a game designer / developer with interests in shaders, procedural animation, physics programming, and systems.
@@ -10,3 +11,4 @@ or audio engineering!
 www.lucacivita.com
 
 Reach me at lcivita99@icloud.com !
+</span>
