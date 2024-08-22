@@ -7,5 +7,5 @@ I also have a background in the arts, and I love combining these previous experi
 
 <a href="http://www.lucacivita.com">www.lucacivita.com</a><br><br>
 
-Reach me at <a href="mailto:lcivita99@icloud.com">lcivita99@icloud.com</a>!
+Reach me at <a href="mailto:lu.civita@icloud.com">lcivita99@icloud.com</a>!
 </span>
